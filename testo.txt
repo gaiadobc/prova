@@ -1,0 +1,4 @@
+Questa è solo un'esercitazione!!
+
+Scriverò cose senza senso solo per fare una prova...
+Cerco di usare github e git (aggiungo qualcosa)
